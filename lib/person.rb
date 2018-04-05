@@ -17,6 +17,6 @@ class Person
   end
 
   def job
-    "#{breed}"
+    "#{job}"
   end
 end
