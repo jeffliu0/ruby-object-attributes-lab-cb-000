@@ -13,10 +13,10 @@ class Person
   end
 
   def job=(type)
-    @breed = type
+    @job = type
   end
 
-  def breed
+  def job
     "#{breed}"
   end
 end
